@@ -1,1 +1,1 @@
-Mise en place du squelette du site
+Mise en place du squelette de base du site
